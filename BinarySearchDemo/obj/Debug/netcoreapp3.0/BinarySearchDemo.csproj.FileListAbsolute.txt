@@ -1,0 +1,11 @@
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.0\BinarySearchDemo.csprojAssemblyReference.cache
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.0\BinarySearchDemo.AssemblyInfoInputs.cache
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.0\BinarySearchDemo.AssemblyInfo.cs
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.0\BinarySearchDemo.exe
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.0\BinarySearchDemo.deps.json
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.0\BinarySearchDemo.runtimeconfig.json
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.0\BinarySearchDemo.runtimeconfig.dev.json
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.0\BinarySearchDemo.dll
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.0\BinarySearchDemo.pdb
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.0\BinarySearchDemo.dll
+C:\Projekti\Trainerize\TestProject\c#\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.0\BinarySearchDemo.pdb
